@@ -1,2 +1,5 @@
 env
 env/
+credentials.json
+token.json
+test_connection.py
